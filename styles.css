@@ -34,6 +34,7 @@ hr{
     padding: 0.5rem 0.5rem;
     font-size: large;
     font-weight: bolder;
+    
 }
 
 .link-primary{
@@ -46,6 +47,7 @@ hr{
 .link-secondary{
     color: var(--span-color);
     border: solid var(--primary-color);
+   border-radius: 0.5rem;
 }
 
 .non-bullet-list{
@@ -100,9 +102,9 @@ hr{
 }
 
 .header-img{
-    max-width: 500px;
+    max-width: 350px;
     display: block;
-    
+    padding: 2rem;
     margin: auto;
 }
 
@@ -123,6 +125,7 @@ hr{
 .section{
     padding: 2rem;
   font-size: large;
+  text-align: center;
     
 }
 
@@ -134,7 +137,7 @@ hr{
 }
 
 .section-header{
-    text-align: center;
+    
     font-size: xx-large;
     font-weight: bolder;
     
