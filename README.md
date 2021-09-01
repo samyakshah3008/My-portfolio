@@ -22,7 +22,7 @@ Check out the live project here
 - [Tech Stack](#tech-stack)
 - [Found a bug?](#found-a-bug)
 - [Contributing](#contributing)
-- [Contact](#contact)
+- [Connect with me on](#connect-with-me-on)
 
 ## Description
 
@@ -47,7 +47,7 @@ Pull requests are always welcome. But before making any major changes you can op
 For less major or minor changes, you can open a [pull request](https://github.com/samyakshah3008/My-portfolio/pulls).
 
 
-## Contact me on:
+## Connect with me on:
 
 <p>
 <a href="https://twitter.com/SamyakShah_18" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>
@@ -55,4 +55,4 @@ For less major or minor changes, you can open a [pull request](https://github.co
 &nbsp; <a href="https://www.linkedin.com/in/samyakshah3008/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 
 
-**[Back to top](#My-portfolio)**
+**[Back to top](#my-portfolio)**
